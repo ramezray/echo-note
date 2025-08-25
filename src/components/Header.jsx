@@ -8,7 +8,7 @@ const Header = () => (
             Echo Note
         </h1>
         <p className="text-xl text-indigo-100 font-medium border-t border-indigo-400/30 inline-block pt-2">
-            AI-Powered Speech Transcription
+            Speech Transcription
         </p>
         <FeatureGrid />
     </div>
