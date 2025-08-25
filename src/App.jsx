@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import FeatureGrid from "./components/FeatureGrid";
 import StatusBar from "./components/StatusBar";
 import Alerts from "./components/Alerts";
-import TranscriptPanel from "./components/TranscriptPanel";
+import TranscriptPanel from "./components/TranscripPanel.jsx"
 import FooterActions from "./components/FooterActions";
 import './index.css';
 import AppLayout from "../AppLayout.jsx";
